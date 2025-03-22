@@ -1,6 +1,4 @@
-# SE-DAY5-Technical-Writing
 
-# Day-5-Assignment
 
 SE-DAY5-Technical-Writing
 
